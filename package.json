@@ -1,5 +1,5 @@
 {
-  "name": "react-transition-group",
+  "name": "@bkrem/react-transition-group",
   "version": "1.3.0",
   "description": "A react component toolset for managing animations",
   "main": "lib/index.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reactjs/react-transition-group.git"
+    "url": "git+https://github.com/bkrem/react-transition-group.git"
   },
   "keywords": [
     "react",
@@ -27,9 +27,9 @@
   "author": "",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/reactjs/react-transition-group/issues"
+    "url": "https://github.com/bkrem/react-transition-group/issues"
   },
-  "homepage": "https://github.com/reactjs/react-transition-group#readme",
+  "homepage": "https://github.com/bkrem/react-transition-group#readme",
   "jest": {
     "testRegex": "-test\\.js",
     "roots": [
@@ -38,8 +38,8 @@
     "timers": "fake"
   },
   "peerDependencies": {
-    "react": "^15.0.0 || ^16.0.0",
-    "react-dom": "^15.0.0 || ^16.0.0"
+    "react": "^15.0.0 || ^16.0.0 || ^17.0.0",
+    "react-dom": "^15.0.0 || ^16.0.0 || ^17.0.0"
   },
   "dependencies": {
     "chain-function": "^1.0.0",
