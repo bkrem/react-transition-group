@@ -1,6 +1,6 @@
 {
   "name": "@bkrem/react-transition-group",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "description": "A react component toolset for managing animations",
   "main": "lib/index.js",
   "scripts": {
